@@ -1,0 +1,1 @@
+# monita-android-sdk-adaptor
