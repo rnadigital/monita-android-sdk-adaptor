@@ -1,0 +1,1 @@
+com.example.monita_adapter_library
